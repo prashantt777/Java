@@ -106,5 +106,5 @@ public class Startup {
 		System.out.print("\n7. Close Post\n8. Delete Post\n9. Log Out\nEnter your choice:");
 
 # Conclusion
-This project uses the concept of all object oriented programming like polymorphism,inheritance,encapsulation and abstraction.It generates automated event ID for every post and users can use this Ids to track post and update purposes.
+This project uses the concept of all object oriented programming like polymorphism,inheritance,encapsulation and abstraction.It generates automated event ID for every post and users can use this Ids to track post and update purposes.Unilink class is implemented in this project.
 
