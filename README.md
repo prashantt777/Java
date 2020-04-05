@@ -15,6 +15,7 @@ These are the different classes made for implication of this project.
 
 ### Event
 public class Event extends Post {
+
 	private static long uniqueID = 0;//creating unique ids
 	private String Venue;
 	private String Date;
